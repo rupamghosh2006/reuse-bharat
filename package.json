@@ -1,0 +1,19 @@
+{
+  "name": "campus-samagri",
+  "version": "1.0.0",
+  "description": "Campus Samagri marketplace smart contracts",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy": "hardhat run scripts/deploy.js"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "dotenv": "^16.4.0",
+    "hardhat": "^2.19.0",
+    "solhint": "^4.1.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.5"
+  }
+}
