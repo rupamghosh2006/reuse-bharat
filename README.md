@@ -1,10 +1,7 @@
-# Campus Samagri - Smart Contracts
+***Reuse Bharat***
+Overview
 
-Smart contracts for the Campus Samagri marketplace on Celo blockchain.
-
-## Overview
-
-A Web3 marketplace for college students to buy/sell textbooks, stationery, and academic materials. **All payment/transaction logic happens off-chain** - only product data is stored on-chain.
+Reuse Bharat is a unified platform designed to reduce resource wastage in India by connecting surplus food, educational materials, and near-expiry medicines with those in need. The platform focuses on building a circular economy through real-time coordination, verified networks, and transparent data systems powered by Web2 and Web3 technologies.
 
 ## Architecture
 
